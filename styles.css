@@ -1,0 +1,28 @@
+body {
+  font-family: "Open Sans", Verdana, sans-serif;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+header {
+  background-color: #ff2f02;
+  padding: 10px;
+}
+
+.profile {
+  display: none;
+}
+
+.profile-button {
+  background-color: #ff2f02;
+  color: #fff;
+  border: 0px;
+  padding: 10px 20px;
+  margin: 0 auto;
+  display: block;
+  text-transform: uppercase;
+}
+
+.profile-button:hover {
+  cursor: pointer;
+}
