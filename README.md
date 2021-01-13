@@ -3,9 +3,9 @@ Hello and welcome to the first year of front-end development.
 
 This is a GitHub repository and in it we can store projects and collaborate with other developers. In this particular repository, we have an introduction to the three main languages of the web: HTML, CSS and JavaScript.
 
-We have recorded a video which will hopefully pique your interest, and give you some insight into what lies ahead in your studies for first year. The video is not there to cover development in detail (we'll get to that in individual courses), but to show you the sorts of things we'll be covering.
+We have recorded a video which will hopefully give you some insight into what lies ahead in your studies for first year. The video is not there to cover development in detail (we'll get to that in individual courses), but to show you the sorts of things we'll be covering.
 
-[View video on Vimeo](https://player.vimeo.com/video/499652381)
+[View video on Vimeo](https://vimeo.com/499652381/7f2e09b74f)
 
 ## Task
 - Download the code in this repository to your computer. You can click 'Code' and 'Download Zip'.
